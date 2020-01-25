@@ -3,7 +3,7 @@
     <section class="container flex-grow mx-auto">
       <g-image
         alt="Hero Image"
-        src="~/img/hero.jpg"
+        src="~/img/homepage/hero.jpg"
         class="w-10/12 mx-auto"
       />
       <h1
