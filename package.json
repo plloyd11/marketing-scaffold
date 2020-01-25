@@ -1,5 +1,5 @@
 {
-  "author": "Brandon Pittman",
+  "author": "Peter Lloyd & John Foderaro",
   "license": "MIT",
   "private": false,
   "scripts": {
@@ -28,7 +28,7 @@
     "tailwindcss-plugin-fancy": "1.0.2"
   },
   "name": "gridsome-starter-default",
-  "description": "A better starter package for Gridsome that includes Tailwind CSS.",
+  "description": "A marketing site scaffold that uses Gridsome, GraphQL, TailwindCSS, and Forestry.io",
   "version": "0.0.1",
   "repository": {
     "type": "git",
@@ -37,9 +37,5 @@
   "keywords": [
     "gridsome",
     "vue"
-  ],
-  "bugs": {
-    "url": "https://github.com/brandonpittman/gridsome-starter-default/issues"
-  },
-  "homepage": "https://github.com/brandonpittman/gridsome-starter-default#readme"
+  ]
 }
