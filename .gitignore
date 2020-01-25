@@ -3,6 +3,7 @@ tags
 .cache
 .DS_Store
 src/.temp
+package-lock.json
 node_modules
 dist
 .env

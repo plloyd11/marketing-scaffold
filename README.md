@@ -1,16 +1,13 @@
-# Default starter for Gridsome
+# Marketing site scaffold using Gridsome, GraphQL, TailwindCSS, and Forestry.io
 
-This is the project you get when you run `gridsome create new-project`.
+This is a base marketing site scaffold for a SMB, with generic marketing pages and the ability to add a headless CRM to add extended functionality.
 
 ## 1. Install Gridsome CLI tool if you don't have
 
 `npm install --global @gridsome/cli`
 
-## 2. Create a Gridsome project
+## 2. Navigate to project directory
 
-1. `gridsome create my-gridsome-site` to install default starter
-2. `cd my-gridsome-site` to open the folder
-3. `gridsome develop` to start a local dev server at `http://localhost:8080`
-4. Happy coding 🎉🙌
-
-[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com)
+1. `cd marketing-scaffold` to open the folder
+2. `gridsome develop` to start a local dev server at `http://localhost:8080`
+3. Happy coding 🎉🙌
